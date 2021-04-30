@@ -123,4 +123,3 @@ Each dictionary key will become a column in the DataFrame, and each list will be
  
 summarises them using gensim.
  
-![image](https://user-images.githubusercontent.com/73319539/116723516-8cc95680-a9d7-11eb-80e7-2d5357633bf9.png)
